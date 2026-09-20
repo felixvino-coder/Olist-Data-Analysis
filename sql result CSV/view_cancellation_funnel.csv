@@ -1,0 +1,5 @@
+cancellation_stage,total_canceled_orders,total_cancellations_percentage
+"1. Canceled Before Payment Approval",141,22.56
+"2. Canceled During Seller Processing (Before Carrier)",409,65.44
+"3. Canceled In-Transit (Logistics/Carrier Drop-off)",69,11.04
+"4. Canceled Post-Delivery (Returned/Refunded)",6,0.96
